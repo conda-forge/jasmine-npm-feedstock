@@ -1,5 +1,5 @@
 context:
-  version: "5.9.0"
+  version: "5.10.0"
 
 package:
   name: jasmine-npm
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/jasmine/-/jasmine-${{ version }}.tgz
-  sha256: aa6caa932c9985195b15ed74d0a8a50af28f4122399653ea5323a43e90d97bc0
+  sha256: 9a0337b60ac375c0cd6248376f652385769566ac1490da660e7f31ec47841317
 
 build:
   number: 0
